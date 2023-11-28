@@ -16,6 +16,7 @@ public class script1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //Tarea 2
+        print("crickets");
     }
 }
